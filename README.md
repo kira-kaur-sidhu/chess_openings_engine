@@ -1,3 +1,13 @@
-# chess_engine
+# Chess Opening Engine
 Python Based Chess Engine Project!
-Final Project for CS50 Class
+
+### Summary
+
+
+see: Maia Chess Engine, Leela Chess Zero/AlphaZero
+
+
+Paper
+
+
+
